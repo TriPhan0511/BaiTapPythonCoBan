@@ -4,10 +4,11 @@ A. "Hà Nội" "Việt Nam"
 B. Hà Nội Việt Nam
 C. Hà NộiViệt Nam
 D. Hà Nội
+   Việt Nam
 """
 
 """
-Đáp án: D
+Đáp án: B
 """
 
 """----------------------------------------------"""

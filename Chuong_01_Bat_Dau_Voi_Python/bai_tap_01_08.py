@@ -9,7 +9,7 @@ F. abc = print(0)
 """
 
 """
-Đáp án: A. Sai; B: Sai; C: Sai; D. Đúng; E. Đúng;F. Đúng  
+Đáp án: A. Sai; B: Sai; C: Sai; D. Đúng; E. Đúng; F. Đúng  
 """
 
 """----------------------------------------------"""

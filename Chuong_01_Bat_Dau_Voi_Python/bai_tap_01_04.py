@@ -4,6 +4,7 @@ A. "Hà Nội" "Việt Nam"
 B. Hà Nội Việt Nam
 C. Hà NộiViệt Nam
 D. Hà Nội
+   Việt Nam
 """
 
 """
@@ -14,3 +15,4 @@ D. Hà Nội
 
 print("Hà Nội")
 print("Việt Nam")
+
