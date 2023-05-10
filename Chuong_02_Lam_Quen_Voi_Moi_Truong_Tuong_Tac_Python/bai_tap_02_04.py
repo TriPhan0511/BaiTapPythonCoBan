@@ -8,7 +8,7 @@ thì giá trị x, y bằng bao nhiêu?
 
 """
 Đáp án:
-x = 2; y = 1
+x = 20; y = 10
 """
 
 x = 10

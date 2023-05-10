@@ -12,10 +12,11 @@ x, y có giá trị bằng với giá trị của y ban đầu.
 
 x = 1
 y = 2
-print(f'x = {x} y = {y}')
+print('Giá trị ban đầu: x =', x, '; y =', y)
+
 x = y
 y = x
-print(f'x = {x} y = {y}')
+print('Giá trị sau khi chạy các câu lệnh: x =', x, '; y =', y)
 
 
 
